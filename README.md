@@ -1,1 +1,1 @@
-The above creates a VPC using Terraform
+The above code creates a VPC using Terraform
